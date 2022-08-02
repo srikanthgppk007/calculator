@@ -1,0 +1,13 @@
+pileline {
+
+  agent any {
+  
+        stage (){
+            echo "hello"  
+        }
+        
+      }
+      
+    }
+        
+        
